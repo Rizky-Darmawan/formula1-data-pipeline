@@ -1,0 +1,12 @@
+Questions:
+- Who are the top 20 drivers of all time in terms of number of wins, also show their average quali results
+- Show me top 5 best teams and 5 worst teams (in terms of grid position)
+- Show me teams from 2016-2023 and their respective statistics of their pit stops time
+
+Tabel yang diperlukan:
+- drivers.csv
+- constructors.csv
+- pit_stops.csv
+- qualifying.csv
+- results.csv
+- races.csv
