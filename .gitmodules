@@ -1,3 +1,6 @@
 [submodule "formula1-data-pipeline-databricks"]
 	path = formula1-data-pipeline-databricks
 	url = https://github.com/Rizky-Darmawan/formula1-data-pipeline-databricks.git
+[submodule "formula1-data-pipeline-adf"]
+	path = formula1-data-pipeline-adf
+	url = https://github.com/Rizky-Darmawan/formula1-data-pipeline-adf.git
